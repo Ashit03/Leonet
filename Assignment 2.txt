@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>history of internet </title>
+</head>
+<body>
+<h1 style ="color:blue;"><b>internet</b></h1>
+<p>The<mark><i>internet</i> started in the <ins> 1960 </ins> </mark>as a way for government researchers to share information.<small><b>january 1,1983</b>is considered the offical <b>birthday of internet </b></small></p>
+</body></html>
