@@ -1,2 +1,2 @@
-# Tea_project
+# Tea.org
 Tesnet project on Tea network
